@@ -6,7 +6,7 @@
   "compatibility_flags": ["nodejs_compat"],
   "vars": {
     "APP_NAME": "Automation Kit",
-    "FROM_EMAIL": "noreply@yourdomain.com"
+    "FROM_EMAIL": "onboarding@resend.dev"
   },
   "secrets": {
     "required": ["SUPABASE_URL", "SUPABASE_ANON_KEY", "RESEND_API_KEY"]
